@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="grid_image_size">100sp</dimen>
+    <dimen name="gridview_height">250sp</dimen>
+</resources>
